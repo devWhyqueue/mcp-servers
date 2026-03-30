@@ -1,0 +1,10 @@
+# Workspace artifacts
+.playwright-cli/
+output/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
