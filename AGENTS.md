@@ -1,1 +1,2 @@
-- After code changes run skill clean code with option minimal, scope fli/fli.
+- Subprojects use uv.
+- After code changes run skill clean code with option minimal from the individual subproject root directory, scope either to equally named Python package or src if exists. But make sure not to include the venv in the scope!
